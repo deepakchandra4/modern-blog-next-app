@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import User from './User'; // Ensure User model is imported first
+
 
 const postSchema = new mongoose.Schema({
   title: {
