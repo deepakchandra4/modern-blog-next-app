@@ -9,7 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "postcss": "^8.5.6"
+    "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.9.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0",
+    "multer": "^2.0.2",
+    "next": "^16.1.6",
+    "postcss": "^8.5.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -20,17 +29,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "axios": "^1.11.0",
-    "bcryptjs": "^3.0.2",
-    "cloudinary": "^2.9.0",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.18.0",
-    "multer": "^2.0.2",
-    "next": "^16.1.6",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
     "tailwindcss": "^4.1.12",
     "typescript": "^5"
   }
